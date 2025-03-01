@@ -1,7 +1,7 @@
 # Data Structures Implementation in C++
 
 ## Overview
-This repository contains my custom implementations of fundamental data structures in C++. All structures have been built from scratch without using the STL (Standard Template Library) implementations.
+This repository contains my custom implementations of fundamental data structures in C++. All structures have been built from scratch without using the STL (Standard Template Library) implementations.Additionally, a few extra functionalities have been added.
 
 ## Implemented Data Structures
 - **Deque (`Deque.cpp`)** - A double-ended queue that allows insertion and deletion from both ends.
@@ -14,3 +14,4 @@ This repository contains my custom implementations of fundamental data structure
 - Implemented using pointers and dynamic memory allocation.
 - Efficient operations for insertion, deletion, and traversal.
 - No usage of STL, ensuring a deep understanding of data structure mechanics.
+- Additionally, a few extra functionalities have been added.
